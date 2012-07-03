@@ -13,3 +13,4 @@ Sublime Text 2 - Configuration files
 - Djaneiro
 - jQuery Snippets pack
 - ZenCoding
+- Theme - Soda: https://github.com/buymeasoda/soda-theme.git
