@@ -1,0 +1,19 @@
+[Default Applications]
+text/html=google-chrome.desktop
+
+application/x-perl=sublime.desktop;sublime-new-window.desktop
+text/plain=sublime.desktop;sublime-new-window.desktop
+text/x-chdr=sublime.desktop;sublime-new-window.desktop
+text/x-csrc=sublime.desktop;sublime-new-window.desktop
+text/x-dtd=sublime.desktop;sublime-new-window.desktop
+text/x-java=sublime.desktop;sublime-new-window.desktop
+text/mathml=sublime.desktop;sublime-new-window.desktop
+text/x-python=sublime.desktop;sublime-new-window.desktop
+text/x-sql=sublime.desktop;sublime-new-window.desktop
+
+application/xhtml+xml=sublime.desktop;sublime-new-window.desktop
+text/xml=sublime.desktop;sublime-new-window.desktop
+application/xhtml_xml=sublime.desktop;sublime-new-window.desktop
+
+inode/directory=nautilus-folder-handler.desktop;sublime-new-window.desktop
+x-directory/normal=nautilus-folder-handler.desktop;sublime-new-window.desktop

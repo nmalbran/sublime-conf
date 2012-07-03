@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=GNOME;GTK;Utility;TextEditor;
+Comment=Sublime Text 2
+Encoding=UTF-8
+Exec=sublime
+Icon=sublime_text.png
+Icon[es_CL]=sublime_text.png
+GenericName=Text Editor
+MimeType=text/plain;
+Name=Sublime Text 2
+NoDisplay=false
+Type=Application
+Version=1.0
+X-Ayatana-Desktop-Shortcuts=NewWindow;
+MimeType=text/plain;text/x-web-markdown;
+
+[NewWindow Shortcut Group]
+Name=New Window
+Exec=sublime -n
+TargetEnvironment=Unity

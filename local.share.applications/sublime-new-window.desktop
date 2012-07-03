@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=sublime -n
+Icon=sublime_text
+Icon[es_CL]=sublime_text
+Name=Sublime Text (New Window)
+Comment=Editor Sublime Text en una nueva ventana
+NoDisplay=true
+Terminal=false
