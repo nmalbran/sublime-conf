@@ -14,3 +14,10 @@ Sublime Text 2 - Configuration files
 - jQuery Snippets pack
 - ZenCoding
 - Theme - Soda: https://github.com/buymeasoda/soda-theme.git
+
+## Theme - Soda changes
+Soda Dark.sublime-theme:378
+
+from: "viewport_color": [255, 255, 255, 35]
+
+to:   "viewport_color": [0, 0, 0, 35]
