@@ -1,39 +1,46 @@
 {
 
-	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
-	"theme": "Soda Dark 3.sublime-theme",
-	"soda_classic_tabs": true,
-	
-	"always_show_minimap_viewport": true,
-	"auto_indent": true,
-	"caret_style": "smooth",
-	"close_windows_when_empty": true,
-	"default_line_ending": "unix",
-	"detect_indentation": false,
-	"draw_minimap_border": false,
-	"draw_white_space": "selection",
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		".idea"
-	],
-	"font_size": 11.0,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"overlay_scroll_bars": "enabled",
-	"spell_check": false,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
-	"word_wrap": true
+    "color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+    "theme": "Soda Dark 3.sublime-theme",
+    "soda_classic_tabs": true,
+
+
+    "close_windows_when_empty": true,
+    "always_show_minimap_viewport": true,
+    "draw_minimap_border": false,
+    "caret_style": "smooth",
+    "draw_white_space": "selection",
+    "font_size": 11.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "detect_indentation": true,
+    "indent_guide_options": ["draw_normal", "draw_active"],
+    "auto_complete_commit_on_tab": true,
+    "overlay_scroll_bars": "enabled",
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+
+
+    "auto_indent": true,
+    "smart_indent": true,
+    "default_line_ending": "unix",
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        ".idea"
+    ],
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "use_tab_stops": true,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true,
+
+    "spell_check": false,
+    "word_wrap": true,
 }
