@@ -3,7 +3,7 @@ Sublime Text - Configuration files
 
 ## Sublime Text 3
 
-Icon and links are automatically add by the `.deb` package.
+Icon and links are automatically added by the `.deb` package.
 
 ### Preferences
 My preferences + Theme Soda little modification.
