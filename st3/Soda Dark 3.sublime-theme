@@ -1,0 +1,8 @@
+[
+	{
+        "class": "minimap_control",
+        "settings": ["always_show_minimap_viewport"],
+        "viewport_color": [0, 0, 0, 35],
+        "viewport_opacity": 1.0
+    },
+]
