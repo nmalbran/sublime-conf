@@ -9,7 +9,8 @@ Icon and links are automatically added by the `.deb` package.
 My preferences + Theme Soda little modification.
 
 ### Packages
-- Theme - Soda: https://github.com/buymeasoda/soda-theme.git
+1. Theme - Soda: `git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"`
+2. Emmet (ex Zen Coding): `git clone https://github.com/sergeche/emmet-sublime.git Emmet`
 
 ## Sublime Text 2
 
