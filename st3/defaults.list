@@ -1,0 +1,25 @@
+[Default Applications]
+application/x-perl=sublime_text.desktop
+application/csv=sublime_text.desktop
+application/xhtml+xml=sublime_text.desktop
+application/xml=sublime_text.desktop
+
+text/plain=sublime_text.desktop
+text/x-chdr=sublime_text.desktop
+text/x-csrc=sublime_text.desktop
+text/x-dtd=sublime_text.desktop
+text/x-java=sublime_text.desktop
+text/mathml=sublime_text.desktop
+text/x-python=sublime_text.desktop
+text/x-sql=sublime_text.desktop
+text/comma-separated-values=sublime_text.desktop
+text/csv=sublime_text.desktop
+text/html=sublime_text.desktop
+text/plain=sublime_text.desktop
+text/tab-separated-values=sublime_text.desktop
+text/x-comma-separated-values=sublime_text.desktop
+text/x-csv=sublime_text.desktop
+text/xml=sublime_text.desktop
+
+inode/directory=sublime_text.desktop
+x-directory/normal=sublime_text.desktop
