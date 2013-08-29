@@ -17,7 +17,7 @@
     "indent_guide_options": ["draw_normal", "draw_active"],
     "auto_complete_commit_on_tab": true,
     "overlay_scroll_bars": "enabled",
-    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 
 
     "auto_indent": true,
