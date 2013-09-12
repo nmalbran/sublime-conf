@@ -12,6 +12,8 @@ My preferences + Theme Soda little modification.
 1. Theme - Soda: `git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"`
 2. Emmet (ex Zen Coding): `git clone https://github.com/sergeche/emmet-sublime.git Emmet`
 3. Djaneiro: `git clone https://github.com/squ1b3r/Djaneiro.git`
+4. INI Syntax: `git clone https://github.com/clintberry/sublime-text-2-ini.git INI`
+
 
 ## Sublime Text 2
 
