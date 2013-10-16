@@ -13,6 +13,7 @@ My preferences + Theme Soda little modification.
 - Emmet (ex Zen Coding): `git clone https://github.com/sergeche/emmet-sublime.git Emmet`
 - Djaneiro: `git clone https://github.com/squ1b3r/Djaneiro.git`
 - INI Syntax: `git clone https://github.com/clintberry/sublime-text-2-ini.git INI`
+- SASS Syntax: `git clone https://github.com/P233/Syntax-highlighting-for-Sass SASS`
 
 
 ## Sublime Text 2
