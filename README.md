@@ -14,6 +14,7 @@ My preferences + Theme Soda little modification.
 - Djaneiro: `git clone https://github.com/squ1b3r/Djaneiro.git`
 - INI Syntax: `git clone https://github.com/clintberry/sublime-text-2-ini.git INI`
 - SASS Syntax: `git clone https://github.com/P233/Syntax-highlighting-for-Sass SASS`
+- PrettyJson: `git clone https://github.com/dzhibas/SublimePrettyJson.git`
 
 
 ## Sublime Text 2
