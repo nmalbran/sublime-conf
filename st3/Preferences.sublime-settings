@@ -43,6 +43,7 @@
 
     "show_encoding": true,
     "show_line_endings": true,
+    "enable_tab_scrolling": false,
 
     "spell_check": false,
     "word_wrap": true,
