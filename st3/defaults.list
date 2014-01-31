@@ -20,6 +20,3 @@ text/tab-separated-values=sublime_text.desktop
 text/x-comma-separated-values=sublime_text.desktop
 text/x-csv=sublime_text.desktop
 text/xml=sublime_text.desktop
-
-inode/directory=sublime_text.desktop
-x-directory/normal=sublime_text.desktop
