@@ -16,6 +16,7 @@ My preferences + Theme Soda little modification.
 - SASS Syntax: `git clone https://github.com/P233/Syntax-highlighting-for-Sass SASS`
 - PrettyJson: `git clone https://github.com/dzhibas/SublimePrettyJson.git`
 - JsFormat: `git clone https://github.com/jdc0589/JsFormat.git`
+- URLEncode/Decode: `git clone https://github.com/colinta/SublimeStringEncode.git`
 
 
 ## Sublime Text 2
