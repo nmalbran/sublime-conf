@@ -17,6 +17,7 @@ My preferences + Theme Soda little modification.
 - PrettyJson: `git clone https://github.com/dzhibas/SublimePrettyJson.git`
 - JsFormat: `git clone https://github.com/jdc0589/JsFormat.git`
 - URLEncode/Decode: `git clone https://github.com/colinta/SublimeStringEncode.git`
+- ColorHighlighter: `git clone https://github.com/Monnoroch/ColorHighlighter.git`
 
 
 ## Sublime Text 2
