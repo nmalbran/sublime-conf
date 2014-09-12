@@ -1,8 +1,20 @@
 [
-	{
-        "class": "minimap_control",
-        "settings": ["always_show_minimap_viewport"],
-        "viewport_color": [0, 0, 0, 35],
-        "viewport_opacity": 1.0
+    {
+    "class": "minimap_control",
+    "settings": ["always_show_minimap_viewport"],
+    "viewport_color": [0, 0, 0, 35],
+    "viewport_opacity": 1.0
+    },
+    {
+    "class": "icon_file_type",
+    "content_margin": [0,0]
+    },
+    {
+    "class": "icon_folder",
+    "content_margin": [0,0]
+    },
+    {
+    "class": "icon_folder_loading",
+    "content_margin": [0,0]
     },
 ]
