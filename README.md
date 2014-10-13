@@ -8,6 +8,9 @@ Icon and links are automatically added by the `.deb` package.
 ### Preferences
 My preferences + Theme Soda little modification.
 
+### Package Control
+    https://sublime.wbond.net/installation#st3
+
 ### Packages
 - Theme - Soda: `git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"`
 - Emmet (ex Zen Coding): `git clone https://github.com/sergeche/emmet-sublime.git Emmet`
@@ -17,7 +20,6 @@ My preferences + Theme Soda little modification.
 - PrettyJson: `git clone https://github.com/dzhibas/SublimePrettyJson.git`
 - JsFormat: `git clone https://github.com/jdc0589/JsFormat.git`
 - URLEncode/Decode: `git clone https://github.com/colinta/SublimeStringEncode.git`
-
 - ColorHighlighter: `git clone https://github.com/Monnoroch/ColorHighlighter.git`
 - TodoReview: `git clone https://github.com/jonathandelgado/SublimeTodoReview.git`
 
