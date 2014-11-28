@@ -21,4 +21,4 @@ My preferences + Theme Soda little modifications.
 - ColorHighlighter: `git clone https://github.com/Monnoroch/ColorHighlighter.git`
 - Djaneiro: `git clone https://github.com/squ1b3r/Djaneiro.git`
 - URLEncode/Decode: `git clone https://github.com/colinta/SublimeStringEncode.git`
-
+- Advanced CSV edition: `git https://github.com/wadetb/Sublime-Text-Advanced-CSV`
