@@ -47,4 +47,5 @@
 
     "spell_check": false,
     "word_wrap": true,
+    "auto_complete_cycle": true
 }
