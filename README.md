@@ -14,6 +14,7 @@ My preferences + Theme Soda little modifications.
 - SASS Syntax: `git clone https://github.com/P233/Syntax-highlighting-for-Sass SASS`
 - TodoReview: `git clone https://github.com/jonathandelgado/SublimeTodoReview.git`
 - TodoTxt: `git clone https://github.com/dertuxmalwieder/SublimeTodoTxt.git`
+- TextCaseConversion: `https://bitbucket.org/scottbessler/sublimetextcaseconversion`
 
 #### Bonus
 - PrettyJson: `git clone https://github.com/dzhibas/SublimePrettyJson.git`
